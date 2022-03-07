@@ -1,4 +1,18 @@
-# [Javascript] 변수 호이스팅
+---
+title:  "[Javascript] 함수 호이스팅(hoisting)"
+excerpt: "Javascript의 함수 스코프(scope)의 개념에 대해 알아보자."
+
+categories:
+  - Javascript
+tags:
+  - [Javascript, hoisting]
+
+toc: true
+toc_sticky: true
+ 
+date: 2022-03-06
+last_modified_at: 2022-03-07
+---
 
 호이스팅(Hoisting)은 자바스크립트의 고유 특징 중 하나이다.
 이번 포스트에서는 변수 선언의 실행 시점과 관련된 특징인 호이스팅에 대해 알아보자.

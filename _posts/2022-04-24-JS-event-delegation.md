@@ -1,17 +1,11 @@
 ---
-title:  "[Javascript] 이벤트 위임"
-excerpt: "Javascript의 이벤트 위임 개념에 대해 알아보자."
-
-categories:
-- Javascript
-  tags:
-- [Javascript, event-delegation]
-
-toc: true
-toc_sticky: true
-
-date: 2022-04-24
-last_modified_at: 2022-04-24
+title: [Javascript] 이벤트 위임
+author:
+name: Hanna Lee
+link: https://github.com/lee1nna
+date: 2022-04-27
+categories: [Javascript]
+tags: [Javascript, 이벤트위임]
 ---
 
 이번 포스팅은 [유데미](https://www.udemy.com/)라는 사이트에서 강의를 진행하시는 Maker Jun 강사님의 Vanilla JS Lv1. 문벅스 카페 메뉴 앱 만들기 스텝1 파트를 수강하고, 배웠던 부분을 까먹지 않기위해 회고하는 포스터를 작성하려고 한다.

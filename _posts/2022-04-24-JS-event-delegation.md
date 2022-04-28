@@ -51,7 +51,6 @@ child.addEventListener('click', Alert('p tag event'))
 
 위 예시를 보면 div태그와 p태그 클릭시 alert을 띄우도록 코드를 구현했다.
 
-![이벤트 버블링](https://user-images.githubusercontent.com/71548623/164967315-3cbec0e4-fd28-4a2b-8881-bd04bdfd6284.gif)
 parent를 눌렀을 때는 div alert창만 뜨지만, child를 눌렀을 때는 p alert, div alert창 모두 뜨는 것을 확인할 수 있다. 이 현상이 바로 이벤트 버블링이다.
 
 ### 이벤트 캡쳐링
@@ -70,7 +69,6 @@ for(let el of elements) {
 }
 ```
 
-![이벤트 캡쳐링](https://user-images.githubusercontent.com/71548623/164967322-ab34d6f5-c532-4deb-a8c5-303619a409f2.gif)
 위 예시를 보면 알 수 있듯이 이벤트 캡처링을 활성화하면 엘리먼트 클릭시 가장 최상단 부모 엘리먼트 부터 클릭된 엘리먼트까지 전달되어 내려오는 것을 알 수 있다. 이 현상이 바로 이벤트 캡쳐링이다.
 
 ### 버블링과 캡쳐링 멈추기
@@ -130,7 +128,6 @@ crud.addEventListener('click', (e) => {
 })
 ```
 
-![이벤트 위임](https://user-images.githubusercontent.com/71548623/164967321-76caf470-fdf2-4e27-9af5-5f4dc16e404d.gif)
 위 코드를 통해 이벤트 위임을 간단히 나타낼 수 있다.
 
 생성, 읽기, 수정, 삭제 각각의 버튼에 이벤트를 넣지 않고 모든 버튼을 감싸고 있는 부모인 div 박스에 이벤트를 할당해 각각의 버튼 엘리먼트에 이벤트를 주고 있다. 이것이 바로 이벤트 위임이다.

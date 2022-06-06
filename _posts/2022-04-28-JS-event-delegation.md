@@ -3,9 +3,9 @@ title:  "[Javascript] 이벤트 위임"
 excerpt: "Javascript의 이벤트 위임에 대해 알아보자."
 
 categories:
-- Javascript
+  - Javascript
   tags:
-- [Javascript, event-delegation]
+  - [Javascript, event-delegation]
 
 toc: true
 toc_sticky: true

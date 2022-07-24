@@ -1,6 +1,6 @@
 ---
 title:  "[React] 간단한 Blog App 만들면서 React 기본 다지기 - 2"
-excerpt: "React 라이브러리를 사용해 간단한 Blog를 만들며 기본기를 다져보자!"
+excerpt: "React 라이브러리를 사용해 간단한 Blog를 만들며 기본기를 다져보자! - 2"
 
 categories:
   - React

@@ -4,14 +4,14 @@ excerpt: "Typescript의 필수 문법에 대해 알아보자!"
 
 categories:
   - Typescript
-  tags:
+tags:
   - [Typescript, narrowing, assertion, type alias]
 
 toc: true
 toc_sticky: true
 
-date: 2022-08-01
-last_modified_at: 2022-08-01
+date: 2022-08-03
+last_modified_at: 2022-08-03
 ---
 ## 타입스크립트 시작하기 - static 웹페이지
 

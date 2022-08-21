@@ -13,9 +13,6 @@ toc_sticky: true
 date: 2022-08-21
 last_modified_at: 2022-08-21
 ---
-## [FE 지식] Semantic Tag와 Semantic Web
-
----
 ## Semantic Tag?
 
 html에는 `Semantic Tag`라는 것이 존재한다.

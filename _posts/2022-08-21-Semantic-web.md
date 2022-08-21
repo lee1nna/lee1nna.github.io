@@ -4,7 +4,7 @@ excerpt: "Semantic Tag와 Semantic Web에 대해 알아보자!"
 
 categories:
   - FE 지식
-  tags:
+tags:
   - [Front-End, Semantic-tag, Semantic-web, SEO]
 
 toc: true

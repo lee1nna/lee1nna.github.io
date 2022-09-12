@@ -15,7 +15,7 @@ last_modified_at: 2022-09-12
 ---
 react + typescript를 사용해서 props를 전달하면 다음과 같은 에러메시지가 뜬다.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f72017f2-e8f8-49c1-8f18-3b255c67adb2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220912%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220912T081142Z&X-Amz-Expires=86400&X-Amz-Signature=00b22709ca4cb3d6fc503509131c62464f5a4b4d664324ea234cc34c1214fb3b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://user-images.githubusercontent.com/71548623/189608521-48a484c0-2e3d-4384-8f66-749b6c7213a3.png)
 
 아래에 나와있듯이 `props: any` 를 사용하면 문제가 해결된다.
 그치만 타입스크립트에서 any는 가급적 안쓰는 것이 좋기 때문에 interface를 사용해 props의 타입을 지정해주어 해당 타입 에러를 없애보자!

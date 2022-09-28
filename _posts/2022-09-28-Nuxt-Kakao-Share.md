@@ -4,7 +4,7 @@ excerpt: "Nuxt + Typescript 환경에서 카카오톡 공유하기 기능을 사
 
 categories:
   - Typescript
-  tags:
+tags:
   - [Nuxt, Typescript, Kakao, Share]
 
 toc: true

@@ -38,7 +38,7 @@ last_modified_at: 2023-05-19
 이후 페이지 렌더링이 완료된 이후에는 사용자의 인터렉션이 발생된 화면만 부분적으로 재렌더링을 진행한다.
 
 <aside>
-💡 <strong>Client Side Rendering</strong>
+💡 Client Side Rendering
 
 **장점**
 
@@ -62,7 +62,7 @@ SSR은 브라우저에 이미 렌더링이 준비된 HTML 파일을 보내준다
 SSR은 사용자의 인터렉션이 발생되면 전체 페이지를 다시 서버로 부터 받아와야 한다.
 
 <aside>
-💡 <strong>Server Side Rendering</strong> 
+💡 Server Side Rendering
 
 **장점**
 
